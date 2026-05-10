@@ -5,7 +5,7 @@
 
 This library is designed for runtime configuration of sensors, system parameters, and anything else you configure. It runs in the UFO environment and requires the installation of some dependent components (see below).
 
-## Оглавление
+## Contents
 
 - [Features](#Features)
 - [Requirements](#Requirements)
